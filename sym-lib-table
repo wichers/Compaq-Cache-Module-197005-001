@@ -1,6 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "cache_slot")(type "KiCad")(uri "${KIPRJMOD}/cache_slot.kicad_sym")(options "")(descr ""))
-  (lib (name "um61256as_slim")(type "KiCad")(uri "${KIPRJMOD}/um61256as_slim.kicad_sym")(options "")(descr ""))
-  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "others")(type "KiCad")(uri "${KIPRJMOD}/others.kicad_sym")(options "")(descr ""))
 )

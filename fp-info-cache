@@ -1,4 +1,4 @@
-23772836077488876
+23755609671251629
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95851,61 +95851,19 @@ Cache slot
 90
 90
 UM61256AS
-RES-ARRAY-SMD_16P-L3.8-W1.6-P0.50-BL
+SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL
 
 
 0
-16
-16
+20
+20
 UM61256AS
-SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL
+SOJ-32_L21.0-W7.6-P1.27-LS8.5-BL
 
 
 0
-14
-14
-UM61256AS
-SOJ-28_L18.1-W7.6-P1.27-LS8.6-BL
-
-
-0
-28
-28
-UM61256AS
-SOJ-44_L28.6-W10.2-P1.27-LS11.2-BL
-
-
-0
-44
-44
-UM61256AS
-SOJ28_18P54X7P75_ISI
-
-UM61256AS
-0
-28
-28
-UM61256AS
-TSOP-44_L18.4-W10.2-P0.80-LS11.8-BL
-
-
-0
-44
-44
-UM61256AS
-TSOPI-28_L11.8-W8.0-P0.55-LS13.4-BL
-
-
-0
-28
-28
-UM61256AS
-TSOPII-44_L18.4-W10.2-P0.80-LS11.8-BL
-
-
-0
-44
-44
+32
+32
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -96690,6 +96648,20 @@ Varistor VF
 0
 2
 2
+easyeda2kicad
+SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL
+
+
+0
+20
+20
+easyeda2kicad
+SOJ-32_L21.0-W7.6-P1.27-LS8.5-BL
+
+
+0
+32
+32
 footprints
 Cache slot
 Cache slot for FIC 486-GAC2
@@ -96698,58 +96670,16 @@ Cache slot
 90
 90
 footprints
-RES-ARRAY-SMD_16P-L3.8-W1.6-P0.50-BL
+SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL
 
 
 0
-16
-16
+20
+20
 footprints
-SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL
+SOJ-32_L21.0-W7.6-P1.27-LS8.5-BL
 
 
 0
-14
-14
-footprints
-SOJ-28_L18.1-W7.6-P1.27-LS8.6-BL
-
-
-0
-28
-28
-footprints
-SOJ-44_L28.6-W10.2-P1.27-LS11.2-BL
-
-
-0
-44
-44
-footprints
-SOJ28_18P54X7P75_ISI
-
-UM61256AS
-0
-28
-28
-footprints
-TSOP-44_L18.4-W10.2-P0.80-LS11.8-BL
-
-
-0
-44
-44
-footprints
-TSOPI-28_L11.8-W8.0-P0.55-LS13.4-BL
-
-
-0
-28
-28
-footprints
-TSOPII-44_L18.4-W10.2-P0.80-LS11.8-BL
-
-
-0
-44
-44
+32
+32

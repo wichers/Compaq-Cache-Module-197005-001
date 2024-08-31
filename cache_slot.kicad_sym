@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "VL82C483:Cache slot"
+		(property "Footprint" "cacheslot:Cache slot"
 			(at -19.05 0 0)
 			(effects
 				(font
@@ -738,7 +738,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin output line
 				(at -38.1 -7.62 90)
 				(length 3.81)
 				(name ""
@@ -756,7 +756,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin output line
 				(at -40.64 -7.62 90)
 				(length 3.81)
 				(name ""
