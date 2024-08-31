@@ -1,7 +1,7 @@
 # Compaq 197005-001 Cache Module reproduction
 [<img src="front_render.jpg">](/front_render.png?raw=true) [<img src="back_render.jpg">](/back_render.png?raw=true)
 
-Reverse Engineered non standard 256K L2 Cache Module for use in:
+Reverse Engineered non standard 256KB/1MB L2 Cache Module for use in:
 
 - [Compaq ProLinea 4/66 (164560-001)](https://theretroweb.com/motherboards/s/compaq-prolinea-4-66)
 - [Compaq Presario 833CDS/850/850CDS/860CDS/866 (197023-001)](https://theretroweb.com/motherboards/s/compaq-presario-800)
