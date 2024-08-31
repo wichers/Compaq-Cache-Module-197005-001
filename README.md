@@ -21,6 +21,8 @@ This project was possible with help provided by rasz_pl - creator of the - [FIC-
 
 # Progress report
 
+31/8/2024: Added support for switchable 256KB/1MB
+
 28/8/2024: First version up for testing.
 
 23/8/2024: Project start. Figuring out the pinout and matching to datasheet.
