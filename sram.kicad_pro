@@ -60,7 +60,7 @@
       ],
       "drc_exclusions": [
         "courtyards_overlap|142199999|99825001|711cfe00-9623-4995-b45e-0ff238dd1289|7f2b885e-08e1-4c81-8a51-4187ed05a60f",
-        "courtyards_overlap|144069999|99825001|a4b35d3f-643a-4352-b226-465f890a8da6|4ad32c6c-509c-4f2a-89a0-bda3ed754b21"
+        "courtyards_overlap|144069999|99825001|4ad32c6c-509c-4f2a-89a0-bda3ed754b21|a4b35d3f-643a-4352-b226-465f890a8da6"
       ],
       "meta": {
         "version": 2
