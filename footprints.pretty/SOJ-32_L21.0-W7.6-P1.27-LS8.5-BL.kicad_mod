@@ -82,7 +82,7 @@
 	(fp_circle (center -9.65 4.83) (end -9.45 4.83) (layer Cmts.User) (width 0.40))
 	(fp_circle (center -10.67 4.57) (end -10.42 4.57) (layer F.SilkS) (width 0.25))
 	(fp_arc (start -10.48 0.00) (end -10.48 1.00) (angle -359.00) (layer F.SilkS) (width 0.25))
-	(model "${KIPRJMOD}/others.3dshapes/SOJ-32_L21.0-W7.6-P1.27-LS8.5-BL.wrl"
+	(model "${KIPRJMOD}/footprints.3dshapes/SOJ-32_L21.0-W7.6-P1.27-LS8.5-BL.wrl"
 		(offset (xyz 0.000 -0.000 -0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

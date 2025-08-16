@@ -38,7 +38,7 @@
 	(fp_circle (center -5.46 2.67) (end -5.00 2.67) (layer F.SilkS) (width 0.25))
 	(fp_circle (center -5.97 4.70) (end -5.72 4.70) (layer Cmts.User) (width 0.50))
 	(fp_arc (start -6.46 -0.00) (end -6.39 0.83) (angle -167.59) (layer F.SilkS) (width 0.25))
-	(model "${KIPRJMOD}/others.3dshapes/SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL.wrl"
+	(model "${KIPRJMOD}/footprints.3dshapes/SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL.wrl"
 		(offset (xyz 0.000 -0.000 -0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

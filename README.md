@@ -21,6 +21,8 @@ This project was possible with help provided by rasz_pl - creator of the - [FIC-
 
 # Progress report
 
+16/8/2025: Added switch to set memory size
+
 31/8/2024: Added support for switchable 256KB/1MB
 
 28/8/2024: First version up for testing.

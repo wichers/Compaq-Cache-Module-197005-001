@@ -1,4 +1,4 @@
-23755609671251629
+23753929345094151
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95843,27 +95843,6 @@ igbt diode module
 0
 25
 25
-UM61256AS
-Cache slot
-Cache slot for FIC 486-GAC2
-Cache slot
-0
-90
-90
-UM61256AS
-SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL
-
-
-0
-20
-20
-UM61256AS
-SOJ-32_L21.0-W7.6-P1.27-LS8.5-BL
-
-
-0
-32
-32
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -96662,24 +96641,38 @@ SOJ-32_L21.0-W7.6-P1.27-LS8.5-BL
 0
 32
 32
-footprints
+easyeda2kicad
+SW-SMD_8P-L11.1-W6.2-P2.54-LS9.8
+
+
+0
+8
+8
+others
 Cache slot
 Cache slot for FIC 486-GAC2
 Cache slot
 0
 90
 90
-footprints
+others
 SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL
 
 
 0
 20
 20
-footprints
+others
 SOJ-32_L21.0-W7.6-P1.27-LS8.5-BL
 
 
 0
 32
 32
+others
+SW-SMD_8P-L11.1-W6.2-P2.54-LS9.8
+
+
+0
+8
+8
